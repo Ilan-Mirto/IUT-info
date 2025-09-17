@@ -1,0 +1,61 @@
+body{
+  margin: 5em;
+}
+
+ul{  
+  padding: 0;
+}
+
+li{
+  margin-right: 2em;
+  margin-top: 1em;
+}
+
+main{
+  padding-top: 2em;
+}
+
+article{
+  margin-right: 20%;
+}
+
+footer{
+  padding-top: 1em;
+}
+
+footer > p{
+  margin: 0;
+}
+
+
+h1>span{
+  display: block;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  width: 14px;
+}
+
+h1 > span {
+  color: grey;
+}
+main > h1 {
+  border-bottom: 4px solid black;
+}
+
+nav {
+  border-bottom: 2px solid black;
+}
+
+footer {
+  border-top: 4px solid black;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
